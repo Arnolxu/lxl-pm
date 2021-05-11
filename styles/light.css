@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+body {
+    font-family: Inter, sans-serif;
+    background-color: rgb(219, 245, 250);
+}
+.project{
+    background-color: rgb(148, 246, 246);
+    border: 1px solid rgb(66, 149, 122);
+    padding: 10px;
+    border-radius: 4px;
+    color: rgb(31, 95, 97);
+}
+a {
+    color: darkcyan;
+    text-decoration: none;
+    font-weight: 500;
+}
+.userpanel{
+    background-color: rgb(148, 246, 246);
+    border: 1px solid rgb(66, 149, 122);
+    padding: 10px;
+    border-radius: 4px;
+    color: rgb(31, 95, 97);
+    width: 170px;
+    float:right;
+}
+.title {
+    color: rgb(62, 138, 161);
+    text-decoration: bold;
+}
+.key{
+    font-weight: 700;
+}
+.value{
+    font-weight: 400;
+}
+input[type=submit]{
+    background-color: rgb(148, 246, 246);
+    border: 1px solid rgb(66, 149, 122);
+    border-radius: 4px;
+    color: rgb(31, 95, 97);
+    padding: 10px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+select {
+    border: 1px solid rgb(66, 149, 122) !important;
+    border-radius: 4px;
+    background: rgb(148, 246, 246);
+    position: relative;
+    display: flex;
+    line-height: 3;
+    overflow: hidden;
+    flex: 1;
+    padding: 0 .5em;
+    color: rgb(31, 95, 97);
+}
+.settings_link{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}

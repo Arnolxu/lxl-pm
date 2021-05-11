@@ -1,0 +1,23 @@
+{
+    "name": "Name",
+    "description": "Description",
+    "version": "Version",
+    "mainfile": "Main Project File",
+    "languages": "Supported Languages",
+    "default_language": "Default Language",
+    "select": "Select",
+    "select_lang": "Select a language:",
+    "title": "LXL Project Manager",
+    "settings": "Settings",
+    "disp_desc": "Display description?",
+    "disp_ver": "Display version?",
+    "disp_mainfile": "Display main project file?",
+    "disp_languages": "Display supported languages?",
+    "disp_default_language": "Display default language?",
+    "save_settings": "Save Settings.",
+    "mainpage": "Mainpage",
+    "dark": "Dark",
+    "light": "Light",
+    "select_theme": "Select a theme.",
+    "select_one": "Select one of them."
+}

@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+body {
+    font-family: Inter, sans-serif;
+    background-color: #333333;
+}
+.project{
+    background-color: #3b3b3b;
+    border: 1px solid #262626;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+}
+a {
+    color: #499cf5;
+    text-decoration: none;
+    font-weight: 500;
+}
+.userpanel{
+    background-color: #3b3b3b;
+    border: 1px solid #262626;
+    padding: 10px;
+    border-radius: 4px;
+    color: rgb(31, 95, 97);
+    width: 170px;
+    float:right;
+}
+.title {
+    color: aliceblue;
+    text-decoration: bold;
+}
+.key{
+    font-weight: 700;
+}
+.value{
+    font-weight: 400;
+}
+label {
+    color: white;
+}
+input[type=submit]{
+    background-color: #3b3b3b;
+    border: 1px solid #262626;
+    border-radius: 4px;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+select {
+    border: 1px solid #262626 !important;
+    border-radius: 4px;
+    background: #3b3b3b;
+    position: relative;
+    display: flex;
+    line-height: 3;
+    overflow: hidden;
+    flex: 1;
+    padding: 0 .5em;
+    color: #fff;
+}
+.settings_link{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Ad",
+    "description": "Açıklama",
+    "version": "Versiyon",
+    "mainfile": "Ana Proje Dosyası",
+    "languages": "Desteklenen Diller",
+    "default_language": "Varsayılan Dil",
+    "select": "Seç",
+    "select_lang": "Bir dil seçin:",
+    "title": "LXL Proje Yöneticisi",
+    "settings": "Ayarlar",
+    "disp_desc": "Açıklama gösterilsin mi?",
+    "disp_ver": "Versiyon gösterilsin mi?",
+    "disp_mainfile": "Ana proje dosyası gösterilsin mi?",
+    "disp_languages": "Desteklenen diller gösterilsin mi?",
+    "disp_default_language": "Varsayılan dil gösterilsin mi?",
+    "save_settings": "Ayarları Kaydet.",
+    "mainpage": "Anasayfa",
+    "dark": "Karanlık",
+    "light": "Aydınlık",
+    "select_theme": "Bir tema seçin.",
+    "select_one": "Birini seç."
+}
