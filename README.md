@@ -15,3 +15,4 @@ A Project Manager Written in PHP
 * Manage your projects easily
 * Plugin support
 * Language support
+* Dark and light mode support
