@@ -14,7 +14,7 @@ if(!isset($_COOKIE['lang'])){
     }
 }
 if(isset($_GET['selected_lang'])){
-    $_COOKIE['lang'] = $_GET['selected_lang'];
+    setcookie('lang', $_GET['selected_lang']);
     $url = 'http://'.$_SERVER['HTTP_HOST'].explode('?',$_SERVER['REQUEST_URI'],2)[0];
     header("Location: $url");
     exit;
