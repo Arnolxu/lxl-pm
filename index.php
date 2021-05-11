@@ -2,7 +2,7 @@
 error_reporting(0);
 ini_set('display_errors', 0);
 $settings = json_decode(fread(fopen("settings/config.json", "rw"), filesize("settings/config.json")), true);
-$lxlpmversion = "0.5";
+$lxlpmversion = "0.5.2";
 $languages = array();
 foreach(array_diff(scandir("languages/"), array(".", "..")) as $file){
     array_push($languages, pathinfo($file, PATHINFO_FILENAME));
