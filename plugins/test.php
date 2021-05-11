@@ -1,5 +1,8 @@
 <?php
 function test_main(){
-    // Code to be executed. 
+    global $settings;
+    if($settings['desc']){
+        // Do something if descriptions are enabled.
+    }
 }
 ?>
