@@ -1,0 +1,23 @@
+{
+    "name": "Agad",
+    "description": "Agaçıgıklagamaga",
+    "version": "Vegersigiyogon",
+    "mainfile": "Aganaga Progoje Dogosyagasıgı",
+    "languages": "Degestegeklegenegen Digilleger",
+    "default_language": "Vagarsagayıgılagan Digil",
+    "select": "Segeç",
+    "select_lang": "Bigir digil segeçigin:",
+    "title": "LXL Progojege Yögönegetigicigisigi",
+    "settings": "Agayagarlagar",
+    "disp_desc": "Agaçıgıklagamaga gögöstegerigilsigin migi?",
+    "disp_ver": "Vegersigiyogon gögöstegerigilsigin migi?",
+    "disp_mainfile": "Aganaga progojege dogosyagasıgı gögöstegerigilsigin migi?",
+    "disp_languages": "Degestegeklegenegen digilleger gögöstegerigilsigin migi?",
+    "disp_default_language": "Vagarsagayıgılagan digil gögöstegerigilsigin migi?",
+    "save_settings": "Agayagarlagarıgı Kagaydeget.",
+    "mainpage": "Aganagasagayfaga",
+    "dark": "Kagaraganlıgık",
+    "light": "Agaydıgınlıgık",
+    "select_theme": "Bigir tegemaga segeçigin.",
+    "select_one": "Bigiriginigi segeç."
+}
