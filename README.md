@@ -2,7 +2,7 @@
 A Project Manager Written in PHP<br/>
 Demo: https://pm.lxl-forum.xyz/
 ## Supported Languages
-* Turkish
+* Turkish (And Bird Language)
 * English
 * Russian
 ### How to add a language?
