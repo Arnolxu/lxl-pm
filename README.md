@@ -1,6 +1,5 @@
 # lxl-project-manager
 A Project Manager Written in PHP<br/>
-Demo: https://lxl-forum.xyz/lxl-pm
 ## Supported Languages
 * Turkish (And Bird Language)
 * English
