@@ -1,5 +1,8 @@
 # lxl-project-manager
 A Project Manager Written in PHP<br/>
+Demo: https://lxlpm.camroku.xyz
+
+(It can be broken, because this project is for localhost.)
 ## Supported Languages
 * Turkish (And Bird Language)
 * English
